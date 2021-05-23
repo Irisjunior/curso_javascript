@@ -11,5 +11,5 @@ let amigo = {
   }
   }
 
-amigo.engordar(2.35)
+amigo.engordar(5)
 console.log(`Meu amigo ${amigo.nome} pesa ${amigo.peso} Kg.`)
